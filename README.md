@@ -1,4 +1,4 @@
-# gemini
+# GeminiAI Chat
 
 Irgi Alyansa Perdana-23552011210
 
