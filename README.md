@@ -1,6 +1,6 @@
 # gemini
 
-A new Flutter project.
+Irgi Alyansa Perdana-23552011210
 
 ## Getting Started
 
